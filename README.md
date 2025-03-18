@@ -1,1 +1,1 @@
-![snake animation](https://github.com/lemelinha/lemelinha/blob/output/github-contribution-grid-snake2.svg)
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&hide=["stars"]&show_icons=true)
